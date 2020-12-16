@@ -223,6 +223,15 @@ namespace Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to German.
+        /// </summary>
+        public static string German {
+            get {
+                return ResourceManager.GetString("German", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Korean.
         /// </summary>
         public static string Korean {
