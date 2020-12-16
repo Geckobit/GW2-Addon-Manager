@@ -9,5 +9,6 @@ namespace Localization
         public const string French = "fr-CA";
         public const string Korean = "ko-KR";
         public const string German = "de-DE";
+        public const string Spanish = "es-MX";
     }
 }

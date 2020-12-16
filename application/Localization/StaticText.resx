@@ -219,4 +219,7 @@
   <data name="German" xml:space="preserve">
     <value>German</value>
   </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
 </root>

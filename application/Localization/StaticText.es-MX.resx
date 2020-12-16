@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,106 +117,112 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="French" xml:space="preserve">
-    <value>Französisch</value>
-  </data>
-  <data name="English" xml:space="preserve">
-    <value>Englisch</value>
-  </data>
-  <data name="Chinese" xml:space="preserve">
-    <value>Chinesisch</value>
-  </data>
-  <data name="Korean" xml:space="preserve">
-    <value>Koreanisch</value>
-  </data>
-  <data name="German" xml:space="preserve">
-    <value>Deutsch</value>
-  </data>
-  <data name="GamePath" xml:space="preserve">
-    <value>Spiel Pfad</value>
-  </data>
-  <data name="ProgramsNotManagedByThisApplication" xml:space="preserve">
-    <value>Programme für GW2, die nicht von GW2-UOAOM verwaltet werden, wie z. B. TacO</value>
-  </data>
-  <data name="CompanionApplicationsWithLeadingSpace" xml:space="preserve">
-    <value> Begleitanwendungen</value>
-  </data>
-  <data name="Options" xml:space="preserve">
-    <value>Optionen</value>
-  </data>
-  <data name="CreateShortcut" xml:space="preserve">
-    <value>Verknüpfung erstellen</value>
-  </data>
-  <data name="CreateShortcutDescription" xml:space="preserve">
-    <value>Erstellt eine Verknüpfung zum Programm. Wenn das Programm verschoben wird, funktionier diese Verknüpfung nicht mehr!</value>
-  </data>
-  <data name="ForceRedownload" xml:space="preserve">
-    <value>Herunterladen erzwingen</value>
-  </data>
-  <data name="ForceRedownloadDescription" xml:space="preserve">
-    <value>Lädt den Addon-Loader und alle Add-ons erneut runter, ohne die Version zu beachten.</value>
+  <data name="AddOns" xml:space="preserve">
+    <value>Complementos</value>
   </data>
   <data name="Available" xml:space="preserve">
-    <value>Verfügbar</value>
+    <value>Disponible</value>
   </data>
-  <data name="Downloading" xml:space="preserve">
-    <value>Lade Herunter</value>
+  <data name="Chinese" xml:space="preserve">
+    <value>Chino</value>
   </data>
-  <data name="DownloadComplete" xml:space="preserve">
-    <value>Herunterladen Abgeschlossen</value>
-  </data>
-  <data name="Update" xml:space="preserve">
-    <value>Aktualisieren</value>
-  </data>
-  <data name="UpdateDescription" xml:space="preserve">
-    <value>Lädt das Update herunter und startet die Anwendung neu.</value>
-  </data>
-  <data name="SelectDirectory" xml:space="preserve">
-    <value>Verzeichnis auswählen</value>
-  </data>
-  <data name="SelectDirectoryDescription" xml:space="preserve">
-    <value>Verwalte das Spiel an dem Pfad in der Textfeld</value>
-  </data>
-  <data name="AddOns" xml:space="preserve">
-    <value>Add-Ons</value>
-  </data>
-  <data name="SelectAllAddonsDescription" xml:space="preserve">
-    <value> Wähle die Add-ons aus, die du herunterladen oder aktualisieren möchtest.</value>
+  <data name="CompanionApplicationsWithLeadingSpace" xml:space="preserve">
+    <value> Aplicaciones adicionales</value>
   </data>
   <data name="ConfigurationOptions" xml:space="preserve">
-    <value>Einstellmöglichkeiten</value>
+    <value>Opciones de complementos</value>
+  </data>
+  <data name="CreateShortcut" xml:space="preserve">
+    <value>Crear acceso directo</value>
+  </data>
+  <data name="CreateShortcutDescription" xml:space="preserve">
+    <value>Crea un acceso directo de la aplicación
+ al menú de inicio. Si mueves esta 
+aplicación
+ a otro directorio, el acceso directo dejara de funcionar.</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Löschen</value>
-  </data>
-  <data name="Disable" xml:space="preserve">
-    <value>Deaktivieren</value>
+    <value>Eliminar</value>
   </data>
   <data name="DeleteDescription" xml:space="preserve">
-    <value>Löscht die ausgewählten Addons und alle zugehörigen Daten</value>
+    <value>Elimina los complementos seleccionados y todos sus datos</value>
+  </data>
+  <data name="Disable" xml:space="preserve">
+    <value>Deshabilitar</value>
   </data>
   <data name="DisableDescription" xml:space="preserve">
-    <value>Deaktiviert die ausgewählten Addons</value>
+    <value>Deshabilita los complementos seleccionados</value>
+  </data>
+  <data name="DownloadComplete" xml:space="preserve">
+    <value>Descarga completada</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>Descargando</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Ingles</value>
+  </data>
+  <data name="ForceRedownload" xml:space="preserve">
+    <value>Forzar re instalación</value>
+  </data>
+  <data name="ForceRedownloadDescription" xml:space="preserve">
+    <value>Descarga y reinstala el cargador de complementos y todos los demás complementos sin importar su versión.</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>Francés</value>
+  </data>
+  <data name="GamePath" xml:space="preserve">
+    <value>Ubicación del juego</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>Alemán</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>Coreano</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Opciones</value>
+  </data>
+  <data name="ProgramsNotManagedByThisApplication" xml:space="preserve">
+    <value>Este listado de aplicaciones para GW2 no es administrado por GW2-UOAOM</value>
   </data>
   <data name="ReEnable" xml:space="preserve">
-    <value>Erneut aktivieren</value>
+    <value>Re Habilitar</value>
   </data>
   <data name="ReEnableDescription" xml:space="preserve">
-    <value>Aktiviert die ausgewählten Addons, wenn sie deaktiviert sind</value>
+    <value>Habilita los complementos seleccionados si estan deshabilitados</value>
   </data>
   <data name="ResetToCleanInstall" xml:space="preserve">
-    <value>Auf Werkseinstellungen zurücksetzen</value>
+    <value>Limpiar instalación</value>
   </data>
   <data name="ResetToCleanInstallDescription" xml:space="preserve">
-    <value>Löscht alle Addons und Plugins aus Guild Wars 2.</value>
+    <value>Elimina todos los complementos de Guild Wars 2.</value>
   </data>
-  <data name="UpdateAllUpperCase" xml:space="preserve">
-    <value>AKTUALISIEREN</value>
+  <data name="SelectAllAddonsDescription" xml:space="preserve">
+    <value>Selecciona los complementos que quieras instalar o actualizar.</value>
   </data>
   <data name="SelectAnAddonToSeeMoreInformationAboutIt" xml:space="preserve">
-    <value>Wählen Sie ein Add-On aus, um weitere Informationen dazu anzuzeigen.</value>
+    <value>Selecciona un complemento para ver más información sobre este.</value>
+  </data>
+  <data name="SelectDirectory" xml:space="preserve">
+    <value>Selecciona directorio</value>
+  </data>
+  <data name="SelectDirectoryDescription" xml:space="preserve">
+    <value>Especifica el directorio del juego</value>
   </data>
   <data name="Spanish" xml:space="preserve">
-    <value>Spanisch</value>
+    <value>Español</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="UpdateAllUpperCase" xml:space="preserve">
+    <value>ACTUALIZAR</value>
+  </data>
+  <data name="UpdateDescription" xml:space="preserve">
+    <value>Esto descargara la ultima versión del programa y lo reiniciara.</value>
   </data>
 </root>
